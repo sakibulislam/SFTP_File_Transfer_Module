@@ -31,7 +31,7 @@
 5. Update app.properties file based on your requirements
 
 6. Update the file naming formatting logic from SftpTransfer.java based on the source file name.
-> Existing codebase file naming format: [Select Prefix File Name From Properties File] + current yyyyMMdd + [Select Suffix File Name From Properties File] `e.g if filename = Sample_20211014.txt here fileNamePrefix= Sample_; current yyyyMMdd= 20211014; fileNameSuffix=.txt)`
+> Existing codebase file naming format: [Select Prefix File Name From Properties File] + current yyyyMMdd + [Select Suffix File Name From Properties File] `(e.g if filename = Sample_20211014.txt here fileNamePrefix= Sample_; current yyyyMMdd= 20211014; fileNameSuffix=.txt`
 
 7. Export the project as Runnable JAR file.
 
