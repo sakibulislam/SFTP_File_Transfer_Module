@@ -35,7 +35,7 @@
 
 7. Export the project as Runnable JAR file.
 
-8. Deploy the Java JAR in Linux server simply putting the JAR and app.properties file
+8. Deploy the Java JAR in any server simply putting the JAR and app.properties file
 
 9. Run the Java JAR file command: java -jar your_jar_name.jar
 
