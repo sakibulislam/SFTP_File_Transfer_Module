@@ -6,7 +6,7 @@
 
   
 
-- [x] Deploy easily in any Linux server by using the java jar
+- [x] Deploy easily in any  server by using the java jar
 
   
 
