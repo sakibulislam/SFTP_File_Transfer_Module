@@ -1,0 +1,2 @@
+Oct 14, 2021 1:37:39 PM sftpTransfer.SftpTransfer main
+INFO: Exception occured: java.net.ConnectException: Connection refused: connect
